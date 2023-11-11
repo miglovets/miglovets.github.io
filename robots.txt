@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
 Allow: /PDR/
-Sitemap: /PDR/sitemap.xml
+Sitemap: https://miglovets.github.io/PDR/sitemap.xml
